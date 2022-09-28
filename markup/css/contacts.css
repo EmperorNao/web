@@ -16,10 +16,10 @@
 .developer {
     display: flex;
     align-items: start;
-    border: solid #3b2f62 3px;
+    /*border: solid #3b2f62 3px;*/
     border-radius: 30px;
     padding: 20px;
-    margin: 30px;
+    margin: 40px;
 }
 
 

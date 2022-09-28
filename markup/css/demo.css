@@ -1,10 +1,11 @@
 
 
 .demo {
-    border: solid black 1px;
+    /*border: solid black 1px;*/
     font-family: 'Ubuntu', sans-serif;
     color: black;
     border-radius: 30px;
+    /*background-color: #ecce00;*/
 }
 
 
@@ -40,4 +41,5 @@
     display: flex;
     justify-content: center;
     margin-bottom: 20px;
+    padding-bottom: 20px;
 }
