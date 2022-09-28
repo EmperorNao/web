@@ -1,0 +1,26 @@
+
+
+.service-list .service {
+    border-radius: 30px;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+
+.service-list .service .service-title {
+    margin: 5px 0px;
+    font-size: 24px;
+}
+
+
+.service-list .service .service-description {
+    padding: 3px;
+    font-size: 18px;
+}
+
+
+.service-list .service img {
+    width: 100%;
+    border-radius: 30px;
+}
+
