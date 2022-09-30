@@ -7,12 +7,6 @@
 }
 
 
-.developers-list {
-    list-style: None;
-    font-family: 'Ubuntu', sans-serif;
-}
-
-
 .developer {
     display: flex;
     align-items: start;

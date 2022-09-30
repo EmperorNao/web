@@ -36,3 +36,8 @@ header nav .description {
     font-size: 30px;
     padding: 15px 50px;
 }
+
+
+header .collapse ul {
+    align-items: center;
+}
