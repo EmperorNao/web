@@ -1,7 +1,7 @@
 <template>
   <div class="contact-link">
     <img class="contact-link-image" :src="image">
-    <a class="contact-link-link" :href="link">{{link}}}</a>
+    <a class="contact-link-link" :href="link">{{link}}</a>
   </div>
 </template>
 

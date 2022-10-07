@@ -4,7 +4,7 @@
       <div class="contact-info">
         <div class="contact-fullname">{{fullname}}</div>
         <div class="contact-post_age">{{post_age}}</div>
-        <div class="contact-description">{{description}}}</div>
+        <div class="contact-description">{{description}}</div>
 
         <div class="contact-links">
         <Link
