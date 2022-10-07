@@ -5,9 +5,7 @@
     Группа: ВТ-191
 </p>
 
-Демка сайта: https://emperornao.github.io/web/markup/index.html
-
-(спасибо github pages)
+Демка сайта: https://emperornao.github.io/web/
 
     
     
