@@ -1,22 +1,27 @@
 <template>
 
-  <div class="demo">
-    <div class="title">Суммаризация текста</div>
-    <div class="description">Суммаризация — автоматическое создание краткого содержания, например заголовка, резюме, аннотации, на основе исходного текста.</div>
-    <div class="demo-texts">
-      <textarea class="demo-input" placeholder="Введите исходный текст"></textarea>
-      <textarea class="demo-input" readonly=""></textarea>
-    </div>
-    <div class="button-container">
-      <button type="button demo-button" class="btn btn-lg btn-outline-dark">Попробовать</button>
-    </div>
-  </div>
+  <section>
+    <Demo
+    />
+  </section>
 
 </template>
 
 <script>
+
+import Demo from "@/components/Demo/Demo";
+
 export default {
-  name: "DemoView"
+  name: "DemoView",
+  components: {Demo},
+  // data () {
+  //   return {
+  //     original_text: "",
+  //     summarized_text: "",
+  //     onclick: this.methods.summarize
+  //   }
+  // }
+
 }
 </script>
 
